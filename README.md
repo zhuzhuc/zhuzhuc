@@ -53,10 +53,20 @@
   
 </p>
 
-## Project Analysis :point_down:  下边标黄的部分换成自己的github用户名
+## Project Analysis :point_down:
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=atongrun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cyan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuzhuc&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 ![](https://github-profile-trophy.vercel.app/?username=zhuzhuc &theme=flat&column=7&margin-w=10)
+### 📈 Github Statistics
+
+<div align="center">
+    <span>&emsp;&emsp;</span>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=blinkfox&count_private=true&show_icons=true" />
+    <span>&emsp;&emsp;</span>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blinkfox&layout=compact&langs_count=8" />
+    <span>&emsp;&emsp;</span>
+</div>
+
 
