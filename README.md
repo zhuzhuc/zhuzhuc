@@ -23,7 +23,7 @@
 <div align="center" ><img order-radius="100px" src="https://tong-1306822294.cos.ap-beijing.myqcloud.com/tong/picture/202212222312468.gif"/></div>
 <br>
 
-<!-- 个人资料徽标 -->  下边标黄的部分换成自己的社交媒体链接
+<!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://v.kuaishou.com/cDejxp"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
 
@@ -58,7 +58,6 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=atongrun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cyan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuzhuc&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
-![](https://github-profile-trophy.vercel.app/?username=zhuzhuc &theme=flat&column=7&margin-w=10)
 ### 📈 Github Statistics
 
 <div align="center">
