@@ -38,12 +38,6 @@
 
 </p>
 
-
-## Project Analysis :point_down:
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=atongrun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cyan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuzhuc&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
-
 ### 📈 Github Statistics
 
 <div align="center">
