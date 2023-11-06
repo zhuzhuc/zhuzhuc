@@ -38,20 +38,6 @@
 
 </p>
 
-## Orientation :dart:
-
-- :heart: coding. 
-
-- :heart: nothing. 
-
-<p>
-
-![C/CPP](https://img.shields.io/badge/-CPP-red?logo=CPP&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-yellow?logo=Linux&logoColor=white)
-![Matlab/Simulink](https://img.shields.io/badge/-Matlab-blue?logo=Matlab&logoColor=white)
-  
-</p>
 
 ## Project Analysis :point_down:
 
@@ -62,9 +48,9 @@
 
 <div align="center">
     <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=blinkfox&count_private=true&show_icons=true" />
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=zhuzhuc&count_private=true&show_icons=true" />
     <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blinkfox&layout=compact&langs_count=8" />
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuzhuc&layout=compact&langs_count=8" />
     <span>&emsp;&emsp;</span>
 </div>
 
