@@ -61,6 +61,38 @@ The motion carrier below demonstrates a scrolling effect of the word "CARRIER":
 To generate this effect, I used GitHub Actions and Python. The code and setup instructions can be found in the [.github/workflows/motion_carrier.yml](.github/workflows/motion_carrier.yml) file.
 
 Feel free to explore the code and customize it for your own use!
+## 界面UI示例
+
+下面是一个简单的猜数字游戏的文本界面UI示例：
+
+```python
+# 导入模块
+import random
+
+# 生成随机数字
+random_number = random.randint(1, 100)
+
+# 游戏循环
+while True:
+    # 获取用户输入
+    guess = input("猜一个1到100之间的数字：")
+
+    # 检查输入是否为数字
+    if not guess.isdigit():
+        print("请输入有效的数字！")
+        continue
+
+    # 将用户输入转换为整数
+    guess = int(guess)
+
+    # 比较用户猜测与随机数字
+    if guess < random_number:
+        print("数字太小了！")
+    elif guess > random_number:
+        print("数字太大了！")
+    else:
+        print("恭喜你，猜对了！")
+        break
 
 
 
