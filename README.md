@@ -47,5 +47,20 @@
     <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuzhuc&layout=compact&langs_count=8" />
     <span>&emsp;&emsp;</span>
 </div>
+# My Awesome Repo
+
+Welcome to my awesome repo! Here, I'm showcasing a motion carrier.
+
+## Motion Carrier
+
+The motion carrier below demonstrates a scrolling effect of the word "CARRIER":
+
+<!-- 播放动画 -->
+![Motion Carrier](motion_carrier.gif)
+
+To generate this effect, I used GitHub Actions and Python. The code and setup instructions can be found in the [.github/workflows/motion_carrier.yml](.github/workflows/motion_carrier.yml) file.
+
+Feel free to explore the code and customize it for your own use!
+
 
 
