@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhuzhuc
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning C+=
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on C++
 - 📫 My mail is :1727643988@qq.com
 <!-- 动态打字效果 -->
