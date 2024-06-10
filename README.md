@@ -26,8 +26,6 @@
 - 副业剪辑
 - ⚡ 个签：万千不如意，睡得着就过的去。
 
-### Activities
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 📈 Github Statistics
 
