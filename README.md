@@ -10,13 +10,6 @@
   </a>
 </h1>
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://tong-1306822294.cos.ap-beijing.myqcloud.com/tong/picture/202212222311275.svg" /></div>
-
-  <p align="center">
-    Visitor count<br><img src="https://profile-counter.glitch.me/zhuzhuc/count.svg" /> 
-</p>
-
 
 ## Hey, I'm zzc 🙋
    About Me :raised_hands:
