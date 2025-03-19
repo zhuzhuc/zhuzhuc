@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @zhuzhuc
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++
-- 📫 My mail is :1727643988@qq.com
-<!-- 动态打字效果 -->
+- 👀 I’m interested in C++/Go/Rust
+- 🌱 I’m currently learning C++/Go/Rust
+- 💞️ I’m looking to collaborate on C++/Go/Rust
+- 📫 Email :zzczhuzhu@gamil.com
+- <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://github.com/zhuzhuc">  
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;欢迎来到zzc的主页!&center=true&size=27">
@@ -22,8 +22,6 @@
   ## About Me :raised_hands:
 
 - 🔭 一个菜鸡大学生（希望毕业顺利）
-- 🤔 方向：后端服务器开发 | 软件开发
-- 副业剪辑
 - ⚡ 个签：万千不如意，睡得着就过的去。
 
 
