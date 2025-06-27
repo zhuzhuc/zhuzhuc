@@ -2,7 +2,6 @@
 - 👀 I’m interested in C++/Go/Rust
 - 🌱 I’m currently learning C++/Go/Rust
 - 💞️ I’m looking to collaborate on C++/Go/Rust
-- 📫 Email :zzczhuzhu@gamil.com
 - <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://github.com/zhuzhuc">  
